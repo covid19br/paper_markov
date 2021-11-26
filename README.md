@@ -1,10 +1,4 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
-# markov_vaccine
+# paper_markov
 
 This repository implements the code used in the paper "Modelling optimal
 vaccination strategies against Covid-19 in a context of Gamma variant
